@@ -24,7 +24,7 @@
     align-items: center;
     padding: 20px;
     position: relative;
-    border-right: 10px solid black;
+    border-right: 1px solid grey;
 }
 
 #left-box>h1 {
@@ -57,7 +57,7 @@
 #right-box>h1 {
     margin-bottom: 10px;
     font-family: "Roboto", sans-serif;
-    font-optical-sizing: auto;
+    /* font-optical-sizing: auto; */
     font-weight: weight;
     font-style: normal;
     font-size: 30px;
